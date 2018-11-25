@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: config-server
+info:
+  profile: dev
